@@ -1,1 +1,3 @@
-# FlutterNotes
+# Flutter Notes
+
+Notes for learning Flutter
